@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'error_server' => 'Error server',
+    'error_login' => 'Wrong email or password',
+    'wrong_password_current' => 'Current password does not match',
+    'error_sale_number_of_shares' => 'Sale number of shares greater than sum number of shares',
+    'not_found_user' => 'User not found',
+    'token_found_user' => 'Token not found',
+    'error_financing' => 'year_month field already exist',
+    'not_found_capital_policy' => 'Capital policy not found',
+    'investor_linked' => 'Investor is already linked to another user',
+    'startup_linked' => 'Startup is already linked to another user',
+    'not_is_shareholder' => 'You are not a shareholder of the company',
+    'uploaded_success' => ' files uploaded',
+    'upload_error' => ' failed to upload',
+    'error_verify_email' => 'The email you entered is already registered. Please verify your email to complete registration.',
+    'error_token_invite' => 'Error decrypt token invite',
+    'error_manual_input' => 'Round name or execution date already exists',
+    'error_input_founder' => '「会社設立」 can only be selected for the first round',
+    'user_not_activated' => 'User is not activated',
+    'success' => 'success',
+    'fail' => 'fail',
+    'error' => 'error',
+];
